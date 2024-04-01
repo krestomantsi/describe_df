@@ -2,7 +2,7 @@
 A cli utility for plotting the statistics of each column of a local csv file (min,max,mean,std,most frequent value). Basically if describe from pandas was a cli tool. The column has to be of float dtype. Results are dumped both in stdout and saved locally into a describe_result.csv. 
 
 # How to use
-~/.cargo/bin/describe -f <file_name> 
+~/.cargo/bin/describe_df -f <file_name> 
 
 # Installation 
 
